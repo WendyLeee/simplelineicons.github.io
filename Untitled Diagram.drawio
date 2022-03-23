@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T11:17:35.488Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="mwMKVWJRHjH5Fy0tF_vG" version="17.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-23T11:18:35.605Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="jqK9cl0MI0A37Udi1oAR" version="17.1.5" type="github">
   <diagram id="ZUUghf88n0iKDZj5hJ0J" name="Page-1">
     <mxGraphModel dx="2156" dy="1347" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YlMBUXd2ht9FfLMpNzXx-30" value="&lt;h1&gt;&lt;font color=&quot;#ffffff&quot;&gt;主要模块&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#56517e;fillColor=#d0cee2;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;opacity=60;" vertex="1" parent="1">
+        <mxCell id="YlMBUXd2ht9FfLMpNzXx-30" value="&lt;h1&gt;&lt;font color=&quot;#ffffff&quot;&gt;主要模块&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#444063;fillColor=#44434A;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="10" width="1180" height="540" as="geometry" />
         </mxCell>
         <mxCell id="YlMBUXd2ht9FfLMpNzXx-55" value="&lt;h1&gt;&lt;font color=&quot;#ffffff&quot;&gt;核心配置&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;opacity=90;" vertex="1" parent="1">
@@ -79,7 +79,7 @@
         <mxCell id="YlMBUXd2ht9FfLMpNzXx-26" value="设备保养" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="670" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YlMBUXd2ht9FfLMpNzXx-31" value="&lt;h1&gt;&lt;font color=&quot;#ffffff&quot;&gt;核心功能&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#56517e;fillColor=#d0cee2;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;opacity=60;" vertex="1" parent="1">
+        <mxCell id="YlMBUXd2ht9FfLMpNzXx-31" value="&lt;h1&gt;&lt;font color=&quot;#ffffff&quot;&gt;核心功能&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#444063;fillColor=#44434A;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="600" width="1180" height="550" as="geometry" />
         </mxCell>
         <mxCell id="YlMBUXd2ht9FfLMpNzXx-56" value="采购管理" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#182E3E;opacity=60;" vertex="1" parent="1">
@@ -142,7 +142,7 @@
         <mxCell id="YlMBUXd2ht9FfLMpNzXx-86" value="用户自主保修" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;rounded=0;sketch=0;fontColor=#FFFFFF;opacity=60;" vertex="1" parent="YlMBUXd2ht9FfLMpNzXx-85">
           <mxGeometry y="30" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YlMBUXd2ht9FfLMpNzXx-92" value="&lt;h1&gt;&lt;font color=&quot;#ffffff&quot;&gt;表结构设计&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#56517e;fillColor=#d0cee2;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;opacity=60;" vertex="1" parent="1">
+        <mxCell id="YlMBUXd2ht9FfLMpNzXx-92" value="&lt;h1&gt;&lt;font color=&quot;#ffffff&quot;&gt;表结构设计&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#444063;fillColor=#44434A;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1520" y="10" width="2280" height="2110" as="geometry" />
         </mxCell>
       </root>
