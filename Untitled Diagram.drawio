@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T11:18:35.605Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="jqK9cl0MI0A37Udi1oAR" version="17.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-28T06:19:24.905Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Fo9N77yC5M0FxLWgKD1F" version="17.1.5" type="github">
   <diagram id="ZUUghf88n0iKDZj5hJ0J" name="Page-1">
-    <mxGraphModel dx="2156" dy="1347" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="815" dy="674" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,7 +107,7 @@
           <mxGeometry y="60" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YlMBUXd2ht9FfLMpNzXx-71" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;采购&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;是否需要处理退货？退款？&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;rounded=0;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#182E3E;opacity=60;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="660" width="190" height="250" as="geometry" />
+          <mxGeometry x="1140" y="660" width="190" height="250" as="geometry" />
         </mxCell>
         <mxCell id="YlMBUXd2ht9FfLMpNzXx-80" value="生产订单" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#182E3E;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="780" y="660" width="330" height="210" as="geometry" />
@@ -115,7 +115,7 @@
         <mxCell id="YlMBUXd2ht9FfLMpNzXx-81" value="设计抢单：验证设计师等级、验证交付日期" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;rounded=0;sketch=0;fontColor=#FFFFFF;opacity=60;" vertex="1" parent="YlMBUXd2ht9FfLMpNzXx-80">
           <mxGeometry y="30" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YlMBUXd2ht9FfLMpNzXx-82" value="自动拆单：拆分产品任务、工时任务" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;rounded=0;sketch=0;fontColor=#FFFFFF;opacity=60;" vertex="1" parent="YlMBUXd2ht9FfLMpNzXx-80">
+        <mxCell id="YlMBUXd2ht9FfLMpNzXx-82" value="自动拆单：拆分产品任务、工时任务；抢单也是按照产品" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;rounded=0;sketch=0;fontColor=#FFFFFF;opacity=60;" vertex="1" parent="YlMBUXd2ht9FfLMpNzXx-80">
           <mxGeometry y="60" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YlMBUXd2ht9FfLMpNzXx-88" value="任务回退：支持回退到任何工序，按照工序记录回退次数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;rounded=0;sketch=0;fontColor=#FFFFFF;opacity=60;" vertex="1" parent="YlMBUXd2ht9FfLMpNzXx-80">
